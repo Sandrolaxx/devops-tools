@@ -8,7 +8,7 @@ Este espaço foi criado para centralizar todos os códigos, scripts, arquivos de
 ## 📂 Roteiro de Aulas e Ferramentas
 Navegue pelas pastas abaixo para acessar o material específico de cada encontro:
 
-* [📁 01 - Git e GitHub: Fundamentos e Trabalho em Equipe](./github) 📍 *Comece por aqui!*
+* [📁 01 - Git e GitHub: Fundamentos e Trabalho em Equipe](./github/readme.md) 📍 *Comece por aqui!*
 * *📁 02 - Docker e Containers (Em breve)*
 * *📁 03 - Integração Contínua (CI) (Em breve)*
 * *📁 04 - Azure DevOps e CD (Em breve)*
