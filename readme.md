@@ -18,5 +18,10 @@ Para acompanhar nossas aulas práticas, certifique-se de ter instalado em sua m�
 - [Git](https://git-scm.com/downloads) (Para controle de versão)
 - [Visual Studio Code](https://code.visualstudio.com/) (Nosso editor de código principal)
 
+## 🖼 Slides
+Link dos slides utilizados na aula:
+- [Primeira Aula: Introdução ao Git e GitHub](https://prezi.com/view/o00ChUwYpKInyLNCcrNl/?referral_token=WjRVP8lnB3FN)
+
+
 ---
 *Professor: Sandro Ramos | Disciplina: DevOps Tools*
