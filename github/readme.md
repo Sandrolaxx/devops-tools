@@ -37,3 +37,5 @@ services:
       - "8080:80" # A porta 8080 é a que acessamos no navegador localmente
     restart: always
 ```
+
+Readme da próxima aula - [Parte 2 - Git Avançado: Branches e Resolução de Conflitos](./readme_aula_conflitos.md)
