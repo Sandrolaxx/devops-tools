@@ -5,5 +5,5 @@ services:
     image: nginx:alpine
     container_name: meu-site-nginx
     ports:
-      - "8081:80" # A porta 8080 é a que acessamos no navegador localmente
+      - "8080:80" # A porta 8080 é a que acessamos no navegador localmente
     restart: always
