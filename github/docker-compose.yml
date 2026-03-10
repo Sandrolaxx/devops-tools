@@ -5,7 +5,7 @@ services:
     image: nginx:alpine
     container_name: meu-site-nginx
     ports:
-      - "8080:80" # A porta 8080 é a que acessamos no navegador localmente
+      - "9000:80" # A porta 8080 é a que acessamos no navegador localmente
     restart: always
 
 #Alterações da Terra-52 -- 
